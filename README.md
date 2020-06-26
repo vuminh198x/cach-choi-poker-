@@ -287,7 +287,7 @@ https://youtu.be/wdDncevQKrY
 <!-- wp:list {"ordered":true} -->
 <ol><li>Người chơi A bỏ bài (FOLD)</li><li>Hoặc người chơi A theo cược (CALL). Bạn này sẽ cần thêm 120 đồng để tiếp tục tham gia ván bài.</li><li>Hoặc người chơi A trên cùng vòng cược Poker tiếp tục tố thêm cược (Reraise) với số tiền 490 đồng. Người chơi B muốn tiếp tục tham gia vòng cược thì phải theo cược. Anh này phải bỏ thêm vào POT 270 đồng nữa</li></ol>
 <!-- /wp:list -->
-
+Xem: <a href="https://pokervietnam.net/cach-choi-poker-online-3-bet/>Cách chơi Poker Reraise 3-Bet hiệu quả</a>
 <!-- wp:group {"backgroundColor":"very-light-gray"} -->
 <div class="wp-block-group has-very-light-gray-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:heading {"level":3} -->
 <h3>All-in trong Poker -  Tố tất hay còn gọi là Tất tay</h3>
@@ -345,7 +345,7 @@ https://youtu.be/wdDncevQKrY
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Preflop là gì? Đây là vòng cược đầu tiên của ván bài Poker. Người chơi Poker cần hành động sau khi biết hai lá bài tẩy của mình là gì.</p>
+<p><a href="https://pokervietnam.net/cach-choi-poker-pre-flop/">Preflop</a> là gì? Đây là vòng cược đầu tiên của ván bài Poker. Người chơi Poker cần hành động sau khi biết hai lá bài tẩy của mình là gì.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -443,7 +443,6 @@ https://youtu.be/wdDncevQKrY
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
 <p>Kết thúc vòng cược cuối này, nếu nhiều hơn một người chơi còn trụ lại, tất cả sẽ cùng ngửa bài (Showdown). Vòng Showdown để xác định người có bộ bài mạnh nhất theo bảng thứ hạng tay bài.</p>
 <!-- /wp:paragraph -->
-
 <!-- wp:paragraph -->
 <p>Ván bài Poker kết thúc sau khi Pot được trao cho người chiến thắng. Vị trí Dealer sẽ dịch chuyển tới người chơi kế tiếp theo chiều kim đồng hồ. Và một ván bài Poker mới bắt đầu!</p>
 <!-- /wp:paragraph --></div>
