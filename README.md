@@ -287,7 +287,7 @@ https://youtu.be/wdDncevQKrY
 <!-- wp:list {"ordered":true} -->
 <ol><li>Người chơi A bỏ bài (FOLD)</li><li>Hoặc người chơi A theo cược (CALL). Bạn này sẽ cần thêm 120 đồng để tiếp tục tham gia ván bài.</li><li>Hoặc người chơi A trên cùng vòng cược Poker tiếp tục tố thêm cược (Reraise) với số tiền 490 đồng. Người chơi B muốn tiếp tục tham gia vòng cược thì phải theo cược. Anh này phải bỏ thêm vào POT 270 đồng nữa</li></ol>
 <!-- /wp:list -->
-Xem: <a href="https://pokervietnam.net/cach-choi-poker-online-3-bet/>Cách chơi Poker Reraise 3-Bet hiệu quả</a>
+Xem: <a href="https://pokervietnam.net/cach-choi-poker-online-3-bet/">Cách chơi Poker Reraise 3-Bet hiệu quả</a>
 <!-- wp:group {"backgroundColor":"very-light-gray"} -->
 <div class="wp-block-group has-very-light-gray-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:heading {"level":3} -->
 <h3>All-in trong Poker -  Tố tất hay còn gọi là Tất tay</h3>
@@ -852,7 +852,7 @@ Xem: <a href="https://pokervietnam.net/cach-choi-poker-online-3-bet/>Cách chơi
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Quan trọng nhất là sòng bài online W88 hỗ trợ nạp/rút tiền rất nhanh tại Việt Nam. Bạn có thể gửi tiền chơi Poker online qua nhiều phương thức gửi tiền rất thuận lợi như chuyển khoản, ATM, ngân hàng online…</p>
+<p>Quan trọng nhất là sòng bài online W88 hỗ trợ nạp/rút tiền rất nhanh tại Việt Nam. Bạn có thể gửi tiền  <a href="https://pokervietnam.net/muon-kiem-tien-tren-mang-hay-choi-poker-online-truc-tuyen/">chơi Poker online </a> qua nhiều phương thức gửi tiền rất thuận lợi như chuyển khoản, ATM, ngân hàng online…</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote {"className":"is-style-large"} -->
