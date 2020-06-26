@@ -57,11 +57,11 @@ Hướng dẫn cách chơi Poker, luật Poker từ A-Z mà bạn cần phải b
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>trò chơi Poker ngày càng được mọi người tham gia. Mọi người có thể chơi Poker ở nhà hoặc chơi poker online ngay trên điện thoại.<br>Không chỉ là một game đánh bài, Poker còn là một nghề kiếm sống hay một công việc part time với rất nhiều người.</p>
+<p><a href="https://pokervietnam.net/">Poker</a> ngày càng được mọi người tham gia. Mọi người có thể chơi Poker ở nhà hoặc chơi poker online ngay trên điện thoại.<br>Không chỉ là một game đánh bài, Poker còn là một nghề kiếm sống hay một công việc part time với rất nhiều người.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Một số Poker Pro Vn thì đã xác định chơi Poker chuyên nghiệp. Các cao thủ Poker này đã tạo nên cộng đồng Poker Việt Nam ngày càng phát triển.</p>
+<p>Một số Poker Pro Vn thì đã xác định chơi <a href="https://pokervietnam.net/nhung-ky-nang-can-co-cua-nguoi-choi-poker-chuyen-nghiep/>Poker chuyên nghiệp</a>. Các cao thủ Poker này đã tạo nên cộng đồng Poker Việt Nam ngày càng phát triển.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -73,7 +73,7 @@ Hướng dẫn cách chơi Poker, luật Poker từ A-Z mà bạn cần phải b
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Bạn có thể học cách chơi Poker tại đây. Video hướng dẫn cách chơi Poker chi tiết sẽ hướng dẫn bạn luật Poker từ A-Z để bạn có thể bắt đầu.</p>
+<p>Bạn có thể học <a href="https://pokervietnam.net/cach-choi-poker>cách chơi Poker</a> tại đây. Video hướng dẫn cách chơi Poker chi tiết sẽ hướng dẫn bạn luật Poker từ A-Z để bạn có thể bắt đầu.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
